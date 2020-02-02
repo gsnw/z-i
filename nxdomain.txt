@@ -12837,7 +12837,6 @@ diploms263.com
 diplomshop.online
 diplomshop.store
 diplomshop24.online
-diplomsp.ru
 diplomsshop.online
 diplomstore42.com
 diplomuch.net
@@ -15533,6 +15532,7 @@ hydra-info.top
 hydra-links.com
 hydra-magazin.org
 hydra-market.name
+hydra-market.online
 hydra-onion-web.com
 hydra-russia.shop
 hydra-site-onion.org
@@ -24995,7 +24995,6 @@ obzor-poker-ruma-pokerdom-110.pokerdom-win.ru
 obzor-poker-ruma-pokerdom-158.pokerdomnow.ru
 obzor-populyarnyh-onlayn-kazino-na-realnye-dengi.frebonus777-2018.info
 obzor-sporta.ru
-obzor.life
 obzorbk.xyz
 obzorkazino.su
 obzory-casino.ru
