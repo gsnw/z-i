@@ -18350,6 +18350,7 @@ lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
+lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-22.fon-infosport.info
@@ -21773,7 +21774,6 @@ mostaaqqwt.com
 mostaaqqwu.com
 mostaaqqwx.com
 mostaaqqwy.com
-mostabak.com
 mostabb.com
 mostadv.com
 mostaee.com
@@ -24281,7 +24281,6 @@ new-rutor.icu
 new-rutor.info.pl
 new-rutor.net.pl
 new-rutor.pp.ua
-new-rutor.site
 new-rutor.tech
 new-rutor.waw.pl
 new-rutor24.ru
