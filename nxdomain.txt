@@ -13627,7 +13627,6 @@ film-online.win
 film-tor.info
 film.1hd1080.info
 film.ekranka.top
-film.fasst-torrent.site
 film.go.kg
 film.serialhit.ru
 film720.org
@@ -29193,6 +29192,7 @@ rus-media-org.info
 rus-rutor.info
 rus-tor.info
 rus-tor.life
+rus-tor.org
 rus-tor.xyz
 rus-torrent.com
 rus-torrentsss.xyz
@@ -29295,6 +29295,7 @@ rutor-torrents.ru
 rutor-w.the-rutor.org
 rutor-zerkalo.info
 rutor-zerkalo.ru
+rutor.biz
 rutor.biz.pl
 rutor.com.pl
 rutor.guru
