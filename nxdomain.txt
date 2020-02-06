@@ -572,6 +572,7 @@
 1.lfhd.ru
 1.maintracker.org
 1.mp3u.club
+1.onlinelifetv.com
 1.rus.the-rutor.org
 1.serial-x.ru
 1.smotrelka.cc
@@ -3714,6 +3715,7 @@
 2.c64a.xyz
 2.kinomonster.org
 2.kinoteka.website
+2.onlinelifetv.com
 2.serial-x.ru
 2.tutfilm.ru
 20-18.bezdepflatx.win
@@ -4541,6 +4543,7 @@
 3-azmpp.win
 3.0cb1.xyz
 3.kinomonster.org
+3.onlinelifetv.com
 3.serial-x.ru
 3.tutfilm.ru
 30-azmpp.win
@@ -13683,6 +13686,7 @@ filter.hopto.org
 finalcredit.biz
 finalzerkalo88.space
 finalzerkalo99.space
+find.vulcan-rate.top
 findmara.win
 findmarathon.win
 findmbet.win
@@ -16617,6 +16621,7 @@ kinobomber2.online
 kinoboom.net
 kinobos.online
 kinoboss.me
+kinobtc.ru
 kinobuso.ru
 kinocity.online
 kinocom.net
@@ -31589,6 +31594,7 @@ vulcan-igrovie-avtomati-online.com
 vulcan-megaslots.com
 vulcan-officialsite.ru
 vulcan-online-casino.top
+vulcan-rate.top
 vulcan-ro.com
 vulcan-slots.com
 vulcan-slots.ru
