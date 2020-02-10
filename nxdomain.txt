@@ -8934,7 +8934,6 @@ besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrat-v-igrovie-avtomati.com
 besplatno.igrovye-gaminatory.com
-besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatnoe-kazino.ru
@@ -26979,7 +26978,6 @@ refpamqh.host
 refpania.host
 refpanmn.host
 refpanpp.host
-refpantx.host
 refpaoak.host
 refpaobb.host
 refpaoei.host
@@ -26988,8 +26986,6 @@ refpaopo.host
 refpaouy.host
 refpaoxs.host
 refpaozf.host
-refpaozn.host
-refpapbm.host
 refpaper.host
 refpaphn.host
 refpapij.host
@@ -27004,12 +27000,10 @@ refpaqas.host
 refpaqcu.host
 refpaqge.host
 refpaqjl.host
-refpaqln.host
 refpaqpa.host
 refpaqqj.host
 refpaqqk.host
 refpaqrk.host
-refpaqsj.host
 refpaqtz.host
 refpaqur.host
 refpaquy.host
@@ -27023,14 +27017,12 @@ refparml.host
 refparpb.host
 refparrr.host
 refparvy.host
-refparzy.host
 refpasar.host
 refpasdg.host
 refpaser.host
 refpaskv.host
 refpaskw.host
 refpason.host
-refpasul.host
 refpatdr.host
 refpatlo.top
 refpatog.host
@@ -27041,7 +27033,6 @@ refpatzw.host
 refpauar.host
 refpaubd.host
 refpaudu.host
-refpaufb.host
 refpauhq.host
 refpaujf.host
 refpauld.host
@@ -27051,12 +27042,10 @@ refpauxh.host
 refpauzj.host
 refpavaz.host
 refpavho.host
-refpavhw.host
 refpavjr.host
 refpavld.host
 refpavlj.host
 refpavng.host
-refpavom.host
 refpavpr.host
 refpavxb.host
 refpawbq.host
