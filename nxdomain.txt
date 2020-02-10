@@ -18446,7 +18446,6 @@ lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
-lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
@@ -29478,7 +29477,6 @@ rutracker.com.ua
 rutracker.host
 rutracker2.org
 rutracker2.ru
-rutracker24.ru
 rutreker-2018.org
 ruttor.tech
 rutube.top
@@ -34351,6 +34349,7 @@ www.kinobos.net
 www.kinoclub.biz
 www.kinofestival.net
 www.kinofuxy.tv
+www.kinogb.me
 www.kinogo-720p.co
 www.kinogo-co-2016.ru
 www.kinogo-net-co.ru
