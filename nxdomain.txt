@@ -15459,6 +15459,7 @@ hd.filmy-2018.net
 hd.filmy-2020.online
 hd.kingfilm.site
 hd.kinocraft.net
+hd.kinok.pro
 hd.kinomen.online
 hd.kinosmak.online
 hd.online720.site
@@ -27055,7 +27056,6 @@ refpaunv.host
 refpaupi.host
 refpavaz.host
 refpavho.host
-refpavhw.host
 refpavjr.host
 refpavld.host
 refpavpr.host
