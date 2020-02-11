@@ -27019,6 +27019,7 @@ refpaozf.host
 refpaozn.host
 refpapbm.host
 refpaphn.host
+refpapij.host
 refpapiu.host
 refpapln.host
 refpaplr.host
@@ -27819,6 +27820,7 @@ rotatormara.win
 rotatormarathon.win
 rotatormbet.win
 rovinj-rovigno.eu
+rovnorc.info
 rox-casino-official.ru
 roxkazino.info
 royal24rc.info
