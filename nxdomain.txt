@@ -13572,6 +13572,7 @@ fast-torrent.biz
 fast-torrent.site
 fast-torrenti.ru
 fast-torrentu.ru
+fast-torrentz.ru
 fast.game-grand.com
 fast.grandcsn.com
 fast.grnd-stars.com
@@ -15841,6 +15842,7 @@ igrovyeavtomaty-besplatno.com
 igrovyeavtomaty-vulkan.ru
 igrovyeavtomaty.online
 igrovyeavtomatyonline.net
+igrovyeavtomatyvulkan.org
 igrozal.club
 igrozal.win
 igrun-strategy.ru
@@ -23614,17 +23616,22 @@ mp-01.fbmetrix-f3d22.com
 mp-01.fbmetrix-fb14d.com
 mp-01.fbmetrix-fd1a8.com
 mp-01.fbmetrix-fea3f.com
+mp-01.smartdirectroute.info
 mp-02.directsmartroute.info
 mp-02.directsmartroute.xyz
 mp-02.fbmetrix-df3f5.com
 mp-02.smartdirectroute.co
+mp-02.smartdirectroute.info
 mp-03.directsmartroute.info
 mp-03.directsmartroute.xyz
 mp-03.smartdirectroute.co
+mp-03.smartdirectroute.info
 mp-04.directsmartroute.info
 mp-04.directsmartroute.xyz
+mp-04.smartdirectroute.info
 mp-05.directsmartroute.info
 mp-05.directsmartroute.xyz
+mp-05.smartdirectroute.info
 mp-06.directsmartroute.xyz
 mp.3music.ru
 mp3-bit.net
@@ -27050,6 +27057,7 @@ refpapyn.host
 refpapzd.host
 refpaqas.host
 refpaqcu.host
+refpaqge.host
 refpaqjl.host
 refpaqpa.host
 refpaqqj.host
@@ -27061,6 +27069,7 @@ refpaquy.host
 refpaqwo.host
 refparaj.host
 refpardm.host
+refpargm.host
 refparhl.host
 refparlg.host
 refparml.host
@@ -27074,6 +27083,7 @@ refpaser.host
 refpaskv.host
 refpaskw.host
 refpason.host
+refpasul.host
 refpatdr.host
 refpatlo.top
 refpatog.host
@@ -31624,6 +31634,7 @@ vse-kino.net
 vse-obzor.ru
 vseazino.com
 vsedlyavsex.com
+vsefilmy.pro
 vsegda-vyigryvat-v-kazino.top-free-bonusy2018.info
 vsekazino11.info
 vsem-cpravky.com
