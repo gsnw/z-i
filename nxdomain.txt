@@ -15504,6 +15504,7 @@ hdhfpzc.fc-scorpion.ru
 hdkino-720.online
 hdkino-online.net
 hdkino-vip.online
+hdkino.club
 hdkinoclub.ru
 hdkinogid.ru
 hdkinogid1.ru
@@ -27086,7 +27087,6 @@ refpatzw.host
 refpauar.host
 refpaubd.host
 refpaudu.host
-refpaufb.host
 refpauhq.host
 refpaujf.host
 refpauld.host
