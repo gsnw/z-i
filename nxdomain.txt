@@ -27070,7 +27070,6 @@ refpaqwo.host
 refparaj.host
 refpargm.host
 refparhl.host
-refparlg.host
 refparml.host
 refparrr.host
 refparvy.host
@@ -27078,7 +27077,6 @@ refpasar.host
 refpasdg.host
 refpaser.host
 refpaskv.host
-refpason.host
 refpasul.host
 refpatlo.top
 refpatua.host
@@ -29567,6 +29565,7 @@ s.semyanich-semena.online
 s1.baskino-hd.top
 s1.baskinohd.top
 s1.cvid.kiev.ua
+s1.f-torrent.ru
 s1.rbk0.top
 s2.baskinohd.top
 s61.fastsrv.com
