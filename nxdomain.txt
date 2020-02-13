@@ -27117,6 +27117,7 @@ refpaskv.host
 refpaskw.host
 refpason.host
 refpasul.host
+refpatdr.host
 refpatlo.top
 refpatua.host
 refpatuc.host
@@ -27129,6 +27130,7 @@ refpauhq.host
 refpaujf.host
 refpauld.host
 refpaunv.host
+refpaupi.host
 refpauxh.host
 refpauzj.host
 refpavho.host
@@ -27137,6 +27139,7 @@ refpavjr.host
 refpavld.host
 refpavom.host
 refpavpr.host
+refpawjy.host
 refpawog.host
 refpawrm.host
 refpaxcx.host
@@ -28153,6 +28156,7 @@ ru.adleonbets7078.com
 ru.adleonbets731.com
 ru.adleonbets744.com
 ru.adleonbets7558.com
+ru.adleonbets7710.com
 ru.adleonbets7758.com
 ru.adleonbets794.com
 ru.adleonbets7989.com
@@ -32234,6 +32238,7 @@ w1ckaim.com
 w1ckfuns.com
 w1kaim.com
 w1kbig.com
+w2.hdrezka.golf
 w2.kinocraft.net
 w2.smotrim-tut.online
 w3.kinocraft.net
