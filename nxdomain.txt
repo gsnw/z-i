@@ -27123,7 +27123,6 @@ refpaskv.host
 refpaskw.host
 refpason.host
 refpasul.host
-refpatdr.host
 refpatlo.top
 refpatua.host
 refpatuc.host
@@ -27143,7 +27142,6 @@ refpavho.host
 refpavhw.host
 refpavjr.host
 refpavld.host
-refpavng.host
 refpavom.host
 refpavpr.host
 refpavxb.host
@@ -27908,7 +27906,6 @@ ru-1xbet-s.pw
 ru-1xbet-s.xyz
 ru-1xbets.date
 ru-1xbets.xyz
-ru-bk5.ru
 ru-bk50.ru
 ru-bk60.ru
 ru-joycasino.org
