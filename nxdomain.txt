@@ -21299,6 +21299,7 @@ mobile.winline140.com
 mobile.winline141.com
 mobile.winline143.com
 mobile.winline145.com
+mobile.winline146.com
 mobile.winline147.com
 mobile.winline148.com
 mobile.winline149.com
@@ -27067,7 +27068,6 @@ refpamqh.host
 refpania.host
 refpanmn.host
 refpanpp.host
-refpantx.host
 refpaoak.host
 refpaobb.host
 refpaoei.host
@@ -27092,7 +27092,6 @@ refpaqcu.host
 refpaqge.host
 refpaqjl.host
 refpaqln.host
-refpaqpa.host
 refpaqqj.host
 refpaqqk.host
 refpaqrk.host
@@ -27143,7 +27142,6 @@ refpavlj.host
 refpavng.host
 refpavom.host
 refpavpr.host
-refpavxb.host
 refpawbq.host
 refpawjy.host
 refpawne.host
@@ -33687,7 +33685,6 @@ www.baltplay98.com
 www.baltplay99.com
 www.baltsport2018.com
 www.bankkino.ru
-www.bardelru.ru
 www.baskino2019.online
 www.baskinoclub.ru
 www.baskinohd.top
