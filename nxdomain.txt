@@ -8948,6 +8948,7 @@ beshark-m.ru
 besplatno-2.azartnie-avtomaty.com
 besplatno-igrat-sloty.club
 besplatno-knigi.com
+besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrat-v-igrovie-avtomati.com
 besplatno.igrovye-gaminatory.com
@@ -27070,6 +27071,8 @@ refpaouy.host
 refpaoxs.host
 refpaozn.host
 refpapbm.host
+refpaper.host
+refpapij.host
 refpapln.host
 refpaplr.host
 refpaplw.host
@@ -32985,7 +32988,6 @@ ww1.pesni-tut.online
 ww2.baskino3.ml
 ww2.baskinohd.top
 ww2.pesni-tut.online
-ww3.baskino3.ml
 ww3.baskinohd.top
 wwa.mp3-tut.biz
 wwb.mp3-tut.biz
