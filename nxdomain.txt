@@ -8949,7 +8949,6 @@ besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrat-v-igrovie-avtomati.com
 besplatno.igrovye-gaminatory.com
-besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatno777.azartnie-avtomaty.com
@@ -27097,12 +27096,12 @@ refpapij.host
 refpapiu.host
 refpapln.host
 refpaplr.host
+refpaplw.host
 refpapwd.host
 refpapyn.host
 refpapzd.host
 refpaqas.host
 refpaqcu.host
-refpaqge.host
 refpaqjl.host
 refpaqln.host
 refpaqpa.host
@@ -27114,7 +27113,6 @@ refpaqur.host
 refpaquy.host
 refpaqwo.host
 refparaj.host
-refpardm.host
 refpargm.host
 refparhl.host
 refparml.host
@@ -29693,6 +29691,7 @@ sb-casino.info
 sb-casino14.com
 sb-casino3.info
 sb-casino4.com
+sb-casino7.info
 sbkregnewlive808.pw
 sbkregnewlive909.pw
 sbkregnewlive999.pw
@@ -30337,6 +30336,7 @@ sportingbullru817.com
 sportingbullru877.com
 sportingbullru914.com
 sportingbullru985.com
+sportings.pw
 sportivnoecasino.info
 sportkontora.website
 sportonline.online
@@ -30896,6 +30896,7 @@ torrentiz.org
 torrentom.net
 torrentor.xyz
 torrentorik.com
+torrentos.top
 torrents-barsik.ru
 torrents-hd.com
 torrents.club
