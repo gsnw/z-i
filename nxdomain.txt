@@ -15655,6 +15655,7 @@ hydra.gdn
 hydra.gs
 hydra18center.ru
 hydra24.me
+hydra24.ru
 hydra24web.shop
 hydra2exghh3rnmc.d-onion.com
 hydra2w.online
@@ -27074,10 +27075,13 @@ refpaokg.top
 refpaopo.host
 refpaouy.host
 refpaoxs.host
+refpaozf.host
 refpaozn.host
+refpapbm.host
 refpaper.host
 refpaphn.host
 refpapij.host
+refpapiu.host
 refpapln.host
 refpaplr.host
 refpaplw.host
@@ -27087,6 +27091,7 @@ refpaqas.host
 refpaqcu.host
 refpaqge.host
 refpaqjl.host
+refpaqln.host
 refpaqpa.host
 refpaqqj.host
 refpaqqk.host
@@ -27108,6 +27113,7 @@ refparvy.host
 refparzy.host
 refpasar.host
 refpasdg.host
+refpaser.host
 refpaskv.host
 refpaskw.host
 refpason.host
@@ -30251,6 +30257,7 @@ sportingbull162.com
 sportingbull167.com
 sportingbull1673.com
 sportingbull168.com
+sportingbull1681.com
 sportingbull1696.com
 sportingbull1707.com
 sportingbull1712.com
@@ -30851,7 +30858,6 @@ torrent-besplatno.ru
 torrent-bit.ru
 torrent-gig.net
 torrent-hd.ru
-torrent-hdfilm.ru
 torrent-lynx.ru
 torrent-maza.top
 torrent-nice.ru
@@ -32264,7 +32270,6 @@ w1ckaim.com
 w1ckfuns.com
 w1kaim.com
 w1kbig.com
-w2.hdrezka.golf
 w2.kinocraft.net
 w2.smotrim-tut.online
 w3.kinocraft.net
