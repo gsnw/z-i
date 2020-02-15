@@ -7426,6 +7426,7 @@ as42.online-star.org
 as44.online-star.org
 as47.online-star.org
 as48.online-star.org
+as50.online-star.org
 asdfilm.ru
 asdstaff.xyz
 asgqq6.host
@@ -27101,9 +27102,7 @@ refpaoxs.host
 refpaozf.host
 refpaozn.host
 refpapbm.host
-refpaper.host
 refpaphn.host
-refpapij.host
 refpapiu.host
 refpapln.host
 refpaplr.host
@@ -27158,7 +27157,6 @@ refpaupi.host
 refpauxh.host
 refpauzj.host
 refpavaz.host
-refpavho.host
 refpavhw.host
 refpavjr.host
 refpavld.host
@@ -28730,6 +28728,7 @@ ru.leon876.com
 ru.leon8818.com
 ru.leon89.com
 ru.leon8933.com
+ru.leon8937.com
 ru.leon894.com
 ru.leon8964.com
 ru.leon9019.com
@@ -28740,6 +28739,7 @@ ru.leon919.com
 ru.leon9221.com
 ru.leon933.com
 ru.leon934.com
+ru.leon9387.com
 ru.leon9394.com
 ru.leon9395.com
 ru.leon9401.com
@@ -29660,6 +29660,7 @@ s1.baskino-hd.top
 s1.baskinohd.top
 s1.cvid.kiev.ua
 s1.f-torrent.ru
+s1.mirkino.club
 s1.rbk0.top
 s2.baskinohd.top
 s61.fastsrv.com
