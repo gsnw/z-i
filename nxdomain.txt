@@ -8964,6 +8964,7 @@ besplatno.igrovye-gaminatory.com
 besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
+besplatno777.azartnie-avtomaty.com
 besplatnoe-kazino.ru
 besplatnye-bonusy-v-kazino-za-registraciyu.frebonus-2018.info
 besplatnye-igrovie-avtomaty.net
@@ -27133,6 +27134,7 @@ refparml.host
 refparpb.host
 refparrr.host
 refparvy.host
+refparzy.host
 refpasar.host
 refpasdg.host
 refpaser.host
@@ -27161,7 +27163,6 @@ refpauzj.host
 refpavaz.host
 refpavhw.host
 refpavjr.host
-refpavld.host
 refpavlj.host
 refpavng.host
 refpavom.host
