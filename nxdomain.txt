@@ -13003,6 +13003,7 @@ document.ml
 dodgemediaplay.win
 dofiga-mp3.ru
 dogfish.info
+doghunter.to
 dojki.cz
 dojki.name
 dok911.ru
@@ -24613,6 +24614,7 @@ new.mirror2.olimp24x7.online
 new.open-russia.org
 new.parimatch-abc.com
 new.sexagolik.art
+new.smotret-lostfilm.online
 new.winline-bet1.com
 new.winline-bet10.com
 new.winline-bet2.com
@@ -27164,6 +27166,7 @@ refpavhw.host
 refpavjr.host
 refpavlj.host
 refpavng.host
+refpavom.host
 refpavpr.host
 refpavxb.host
 refpawbq.host
@@ -28562,6 +28565,7 @@ ru.leon3897.com
 ru.leon3911.com
 ru.leon3922.com
 ru.leon3931.com
+ru.leon3987.com
 ru.leon3988.com
 ru.leon3999.com
 ru.leon4014.com
