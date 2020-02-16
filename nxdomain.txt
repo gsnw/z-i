@@ -27094,6 +27094,7 @@ refpamqh.host
 refpania.host
 refpanmn.host
 refpanpp.host
+refpantx.host
 refpaoak.host
 refpaobb.host
 refpaoei.host
@@ -27113,6 +27114,7 @@ refpaplw.host
 refpapwd.host
 refpapyn.host
 refpapzd.host
+refpaqas.host
 refpaqcu.host
 refpaqge.host
 refpaqjl.host
@@ -27149,6 +27151,7 @@ refpatuc.host
 refpatzp.host
 refpatzw.host
 refpauar.host
+refpaubd.host
 refpaudu.host
 refpaufb.host
 refpauhq.host
@@ -29868,7 +29871,6 @@ shlupka20tv.org
 shlupka40tv.org
 shlupka80tv.org
 shonkino.ru
-shop-diploma.com
 shop-kazino.win
 shopbezdepx.win
 shopdiplom.ru
@@ -34640,7 +34642,6 @@ www.kinobos.net
 www.kinoclub.biz
 www.kinofestival.net
 www.kinofuxy.tv
-www.kinogb.me
 www.kinogo-720p.co
 www.kinogo-co-2016.ru
 www.kinogo-net-co.ru
