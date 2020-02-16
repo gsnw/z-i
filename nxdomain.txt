@@ -18502,8 +18502,10 @@ lp-01.fon-infosport.info
 lp-01.fonbet3.info
 lp-01.fongametime.info
 lp-01.foninfo.org
+lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfo.org
+lp-03.fon-infosport.info
 lp-03.fonbet3.info
 lp-03.fongametime.info
 lp-03.foninfo.org
@@ -18532,6 +18534,7 @@ lp-26.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
+lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-38.fon-infosport.info
@@ -18544,6 +18547,7 @@ lp-46.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-53.fon-infosport.info
+lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
@@ -25434,6 +25438,7 @@ onlinecasinozodiak.info
 onlinefonbet.xyz
 onlinegids.pro
 onlinehq.ru
+onlinemakemoney.work
 onlinemarbet.win
 onlinembet.win
 onlinembetodds.win
@@ -27099,6 +27104,7 @@ refpaoxs.host
 refpaozf.host
 refpaozn.host
 refpapbm.host
+refpaper.host
 refpaphn.host
 refpapij.host
 refpapiu.host
